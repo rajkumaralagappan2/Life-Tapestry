@@ -2,6 +2,10 @@
 
 Welcome to the repository for the "Life Tapestry" blog website—a dynamic and expressive platform built using Node.js and Express.js. This project is designed to offer a seamless, responsive, and visually engaging experience for both writers and readers.
 
+
+## Demo
+This project is live at [life-tapestry.ap-1.evennode.com]
+
 ## Features
 
 - **Node.js and Express.js:**
