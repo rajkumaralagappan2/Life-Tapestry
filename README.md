@@ -4,7 +4,7 @@ Welcome to the repository for the "Life Tapestry" blog website—a dynamic and e
 
 
 ## Demo
-This project is live at [life-tapestry.ap-1.evennode.com]
+This project is live at [http://life-tapestry.ap-1.evennode.com]
 
 ## Features
 
