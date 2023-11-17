@@ -19,7 +19,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect("mongodb+srv://admin-rajkumar:KaneWilliamson%4022@cluster0.gpvzkwj.mongodb.net/blogDB");
+mongoose.connect(mongoUrl);
 
 const postSchema= new mongoose.Schema({title: String, content: String});
 
