@@ -3,8 +3,12 @@
 Welcome to the repository for the "Life Tapestry" blog website—a dynamic and expressive platform built using Node.js and Express.js. This project is designed to offer a seamless, responsive, and visually engaging experience for both writers and readers.
 
 
-## Demo
-This project is live at [http://life-tapestry.ap-1.evennode.com]
+## Screenshots
+
+[![Life-Tapestry-Home-Page.png](https://i.postimg.cc/DzGsRpgX/Life-Tapestry-Home-Page.png)](https://postimg.cc/7Cxf2VjH)
+[![Life-tapestry-Content-Page.png](https://i.postimg.cc/KjW8Gxcv/Life-tapestry-Content-Page.png)](https://postimg.cc/RJcBGrnj)
+[![life-Tapestry-compose-page.png](https://i.postimg.cc/WpyNJpjs/life-Tapestry-compose-page.png)](https://postimg.cc/14phkQfd)
+
 
 ## Features
 
